@@ -20,7 +20,7 @@ specific folder:
   * MacOS: `~/Library/Application Support/Cura/5.2/plugins/`
   * Linux: `/home/<username>/.local/share/cura/5.2/plugins/`
 
-If you don't have Qidi printers available in Cura, unpack the [Qidi Printer Definitions.zip](https://github.com/alkaes/Qidi-Printer-Definitions/releases/download/1.0/Qidi-Printer-Definitions.v1.0.zip) to this specific folder:
+If you don't have Qidi printers available in Cura, unpack the [Qidi Printer Definitions.zip](https://github.com/philltran/Cura-Qidi-Printer-Definitions/archive/refs/tags/v5.2.1.zip) to this specific folder:
   * Windows: `%USERPROFILE%\AppData\Roaming\cura\5.2\`
   * MacOS: `~/Library/Application Support/Cura/5.2/`
   * Linux: `/home/<username>/.local/share/cura/5.2/`
